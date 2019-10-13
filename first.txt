@@ -5,3 +5,4 @@ Gitの練習をしていきます
 ・Git rm
 ・Git status
 ・Git diff
+・絶対優秀なwebエンジニアになる
